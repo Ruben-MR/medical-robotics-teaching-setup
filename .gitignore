@@ -1,0 +1,38 @@
+# Windows default autosave extension
+*.asv
+
+# OSX / *nix default autosave extension
+*.m~
+*.bak
+
+# Compiled MEX binaries (all platforms)
+#*.mex*
+*_grt_rtw/
+*.mexw64
+
+# Packaged app and toolbox files
+#*.mlappinstall
+#*.mltbx
+
+# Generated helpsearch folders
+#helpsearch*/
+
+# Simulink code generation folders
+slprj/
+sccprj/
+
+# Matlab code generation folders
+#codegen/
+
+# Simulink autosave extension
+*.autosave
+
+# TwinCat compilation
+*_tct/
+*_tcgrt/
+.vs/
+
+*.stl
+*.original
+
+*.slxc
